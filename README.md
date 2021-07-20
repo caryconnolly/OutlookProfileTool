@@ -14,3 +14,4 @@ The logging path to C:\Program Files\foldername it will fail as you need local a
 C:\OutlookScriptLogs to prevent this error just in case.
 -Marc Arsenault
 
+MS dll Search - This code is to assist organizations that have multiple .NET deployments. It is prepared to look for the specific library files. This will replace the the hardcoded path for the MS .NET libraries. This code has not been tested by SSC. If you have any questions please reach out for assistance. - Mike Money
